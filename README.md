@@ -54,7 +54,9 @@ La versión actual permite:
 ### Demostración
 
 <p align="center">
-  <img src="figuras/demo_fig.gif" width="800">
+  <a href="figuras/demo_gif.gif">
+    <img src="figuras/demo_gif.gif" width="840">
+  </a>
 </p>
 
 ---
