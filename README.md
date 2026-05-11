@@ -4,7 +4,7 @@
 
 La aplicación funciona como interfaz de presentación de estímulos, sistema de captura de eventos del lápiz y módulo de registro de la información generada durante cada trial. Esta aplicación es controlada por [pyhwr](https://github.com/neuroialaborg/pyhwr) desde una PC/Laptop usando Python.
 
-Esta app es parte del proyecto para estudiar la factibilidad de decodificación del trazo continuo de letras del alfabeto español a partir del electroencefalograma de superficie que se lleva a cabo en el Laboratorio de Neurociencias e Inteligencia Artificial aplicada (Neuro-IA LAB) de la Universidad Tecnológica.
+Esta app es parte del proyecto para estudiar la factibilidad de decodificación del trazo continuo de letras del alfabeto español a partir del electroencefalograma de superficie que se lleva a cabo en el Laboratorio de Neurociencias e Inteligencia Artificial aplicada (Neuro-IA LAB) de la [Universidad Tecnológica](https://utec.edu.uy/es/) del Uruguay.
 
 ## Autor MSc. BALDEZZARI LUCAS
 
