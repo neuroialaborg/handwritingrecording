@@ -53,6 +53,8 @@ La versión actual permite:
 
 ### Demostración
 
+El gif de abajo muestra la aplicación en funcionamiento. Los trazos son dibujados por una persona voluntaria y la tablet registra toda la información necesaria para el posterior análisis.
+
 <p align="center">
   <a href="figuras/demo_gif.gif">
     <img src="figuras/demo_gif.gif" width="640">
