@@ -90,47 +90,6 @@ La aplicación fue pensada para integrarse con el amplificador que se cuenta en 
 
 ---
 
-## Estructura del repositorio
-
-```text
-.
-├── readme.md
-├── Docs/
-│   ├── datos_a_almacenar.md
-│   ├── especificaciones_interfaz.md
-│   ├── etapas_experimento.md
-│   ├── protocolo_comunicacion.md
-│   ├── protocolo_registro_eventos.md
-│   ├── requisitos_androidstudio.md
-│   └── trama_pcyandroid.md
-├── figuras/
-│   ├── esquema_app.png
-│   └── trials_division.png
-├── handwrittingrecording/
-│   ├── build.gradle.kts
-│   ├── settings.gradle.kts
-│   ├── gradle/
-│   └── app/
-│       ├── build.gradle.kts
-│       └── src/main/
-│           ├── AndroidManifest.xml
-│           ├── java/com/example/handwrittingrecording/
-│           │   ├── EventManager.kt
-│           │   ├── MainActivity.kt
-│           │   ├── PCMessenger.kt
-│           │   └── touchView.kt
-│           └── res/
-│               ├── drawable/
-│               ├── font/
-│               ├── layout/activity_main.xml
-│               ├── raw/
-│               └── values/
-└── pc/
-    └── empty.txt
-```
-
----
-
 ## Requisitos
 
 ### Software
