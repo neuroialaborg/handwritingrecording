@@ -55,7 +55,7 @@ La versión actual permite:
 
 <p align="center">
   <a href="figuras/demo_gif.gif">
-    <img src="figuras/demo_gif.gif" width="840">
+    <img src="figuras/demo_gif.gif" width="640">
   </a>
 </p>
 
