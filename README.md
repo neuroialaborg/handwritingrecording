@@ -51,6 +51,12 @@ La versión actual permite:
 
 ✅ Generar marcadores visuales para inicio de sesión, trial y primer contacto del lápiz. Estos marcadores son registrados usando triggers digitales que se sincronizan con las señales adquiridas con el amplificador. También se registran los eventos por software para tener redundancia de información.
 
+### Demostración
+
+<p align="center">
+  <img src="figuras/demo_fig.gif" width="800">
+</p>
+
 ---
 
 ## Uso general
