@@ -66,8 +66,7 @@ El gif de abajo muestra la aplicación en funcionamiento. Los trazos son dibujad
 Debajo pueden verse los trazos registrados para una de las rondas de experimento sobre una persona voluntaria.
 
 
-Una sóla letra:
-
+Trazo de una sóla letra:
 
 <p align="center">
   <a href="figuras/a.png">
@@ -75,7 +74,7 @@ Una sóla letra:
   </a>
 </p>
 
-Todas las letras para una ronda ejecutada.
+Trazos de todas las letras para una ronda ejecutada.
 
 <p align="center">
   <a href="figuras/all_traces.png">
