@@ -51,13 +51,35 @@ La versión actual permite:
 
 ✅ Generar marcadores visuales para inicio de sesión, trial y primer contacto del lápiz. Estos marcadores son registrados usando triggers digitales que se sincronizan con las señales adquiridas con el amplificador. También se registran los eventos por software para tener redundancia de información.
 
-### Demostración
+## Demostración aplicación
 
 El gif de abajo muestra la aplicación en funcionamiento. Los trazos son dibujados por una persona voluntaria y la tablet registra toda la información necesaria para el posterior análisis.
 
 <p align="center">
   <a href="figuras/demo_gif.gif">
     <img src="figuras/demo_gif.gif" width="640">
+  </a>
+</p>
+
+### Trazos registrados
+
+Debajo pueden verse los trazos registrados para una de las rondas de experimento sobre una persona voluntaria.
+
+
+Una sóla letra:
+
+
+<p align="center">
+  <a href="figuras/a.png">
+    <img src="figuras/a.png" width="640">
+  </a>
+</p>
+
+Todas las letras para una ronda ejecutada.
+
+<p align="center">
+  <a href="figuras/all_traces.png">
+    <img src="figuras/all_traces.png" width="640">
   </a>
 </p>
 
