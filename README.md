@@ -462,7 +462,7 @@ El guardado actual usa:
 Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS)
 ```
 
-En versiones recientes de Android, la escritura en carpetas públicas puede requerir ajustes adicionales según políticas de almacenamiento, permisos y configuración del dispositivo. Si aparecen errores de escritura. En caso de cambiar de SDK esto traerá un problema, por lo tanto, **recomiendo fuertemente usar JDK 17 como en este proyecto.**
+En versiones recientes de Android, la escritura en carpetas públicas puede requerir ajustes adicionales según políticas de almacenamiento, permisos y configuración del dispositivo. Si aparecen errores de escritura. En caso de cambiar de SDK esto traerá un problema, por lo tanto, **recomiendo fuertemente usar JDK 17, específicamente *17 Oracle OpenJDK 17.0.12* y gradle versión 8.13, con en este proyecto.**
 
 ---
 
